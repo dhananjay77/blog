@@ -20,5 +20,5 @@
   "homepage": "https://github.com/dhananjay77/blogs#readme",
   "dependencies": {
     "vuepress": "^0.12.0"
-  
+  }  
 }
