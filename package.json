@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "blog:build": "vuepress build blog"
+    "install": "yarn install",
+    "blog:build": "yarn vuepress build blog"
   },
   "repository": {
     "type": "git",
