@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "---\r title: Outreach Shame\r ---",
   "main": "index.js",
+  "dependencies": {		
+		"vuepress": "^1.8.2"
+	},
   "scripts": {
     "build": "vuepress build blog",
 		"dev": "vuepress dev blog"
