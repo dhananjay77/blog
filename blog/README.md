@@ -4,6 +4,6 @@ blog_index: true
 
 # Blog
 
-Welcome on Outreach Shame blog.
+Welcome on BeeZeal Consultancy blog.
 
 <BlogIndex />
